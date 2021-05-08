@@ -2,8 +2,8 @@
 
 ### My name is Laurence Steven and I'm a Software Developer based on Nicaragua and working full time remotely. 
 
-- 🔭 I’m currently working on Mobile Development with React Native
-- 🌱 I’m currently learning about design patterns
+- 🔭 I’m currently working as a Mobile Developer at Top Floor Marketing
+- 🌱 I’m currently learning about software de
 - 💬 Ask me about Mobile Development 
 - 📫 How to reach me: [Twitter](https://twitter.com/LaurenceM10_)
 
