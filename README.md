@@ -3,7 +3,7 @@
 ### My name is Laurence Steven and I'm a Software Developer based on Nicaragua and working full time remotely. 
 
 - 🔭  I’m currently working as a Web and Mobile Developer at Top Floor Marketing
-- 💬  Ask me about Mobile Development 
+- 💬  Ask me about Web and Mobile Development 
 - 📫  How to reach me: [Twitter](https://twitter.com/LaurenceM10_), [Dev.to](https://dev.to/laurencem10)
 
 
