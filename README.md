@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Laurence Steven and I'm a Software Developer based on Nicaragua and working full time remotely. 
+### My name is Laurence Steven and I'm a Software Developer from Nicaragua and working full time remotely. 
 
 - 🔭  I’m currently working as a Web and Mobile Developer at Top Floor Marketing
 - 💬  Ask me about Web and Mobile Development 
